@@ -1,0 +1,62 @@
+h1 {
+    padding-bottom: 20px;
+    border-bottom: solid 3px rgb(202, 200, 200)
+}
+
+h3{
+font-weight: bold;
+text-decoration: underline;
+text-indent: 50px;
+
+}
+ul
+{
+ margin-left: 50px;
+}
+#media
+{
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 50px;
+}
+#diff
+{
+    color:red;
+    border-style:solid;
+    border-width: 1px;
+    border-color: red;
+    text-align: center;
+    width: 1125px;
+    height: 22px;
+    padding:1px;
+    margin-left: 100px;
+    font-weight: bold;
+ 
+}
+table{
+table-layout:auto;
+width: 85%;
+margin-left: 100px;
+}
+
+th {
+    border:1px solid black;
+    padding: 1px;
+}
+td
+{
+    border:1px solid black;
+    padding-bottom: 20px;  
+    padding-top: 20px;
+    font-size:15px ;
+
+}
